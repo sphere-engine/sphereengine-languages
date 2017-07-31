@@ -1,0 +1,13 @@
+uses java.io.InputStreamReader
+uses java.util.Scanner
+uses java.lang.System
+
+var scanner = new Scanner( new InputStreamReader( System.in ) )
+
+while (true) {
+	var n = scanner.nextInt()
+	if (n == 42) {
+		break;
+	}
+	print( n )
+}

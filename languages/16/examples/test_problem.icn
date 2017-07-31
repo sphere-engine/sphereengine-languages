@@ -1,0 +1,3 @@
+procedure main()
+	while write(42 ~= read())
+end

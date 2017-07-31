@@ -1,0 +1,13 @@
+{
+	"templates": [
+		
+	],
+	"examples": [
+		{
+			"name": "Simple example",
+			"desc": "",
+			"file_source": "simple_example.php",
+			"file_input": ""
+		}
+	]
+}

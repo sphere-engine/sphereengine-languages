@@ -1,0 +1,6 @@
+uses java.io.InputStreamReader
+uses java.util.Scanner
+uses java.lang.System
+
+var scanner = new Scanner( new InputStreamReader( System.in ) )
+

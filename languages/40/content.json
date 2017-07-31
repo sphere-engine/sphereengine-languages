@@ -1,0 +1,18 @@
+{
+	"templates": [
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.sql",
+			"type": ""
+		}
+	],
+	"examples": [
+		{
+			"name": "Simple example",
+			"desc": "",
+			"file_source": "simple_example.sql",
+			"file_input": ""
+		}
+	]
+}

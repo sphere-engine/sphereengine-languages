@@ -1,0 +1,1430 @@
+{
+	"1": {
+		"name": "C++",
+		"short": "CPP",
+		"extension": "cpp",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "cpp",
+			"pygments": "cpp",
+			"highlights": "c",
+			"rouge": "cpp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+	
+		}
+	},
+	"2": {
+		"name": "Pascal",
+		"short": "PAS_GPC",
+		"extension": "pas",
+		"mime": "",
+		"syntax": {
+			"ace": "pascal",
+			"geshi": "pascal",
+			"pygments": "pascal",
+			"highlights": "",
+			"rouge": "pascal",
+			"codemirror": "pascal"
+		},
+		"ace_default": {
+	
+		}
+	},
+	"3": {
+		"name": "Perl",
+		"short": "PERL",
+		"extension": "pl",
+		"mime": "",
+		"syntax": {
+			"ace": "perl",
+			"geshi": "perl",
+			"pygments": "perl",
+			"highlights": "perl",
+			"rouge": "perl",
+			"codemirror": "perl"
+		},
+		"ace_default": {
+	
+		}
+	},
+	"4": {
+		"name": "Python",
+		"short": "PYTHON",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python"
+		},
+		"ace_default": {
+	
+		}
+	},
+	"5": {
+		"name": "Fortran",
+		"short": "FORTRAN",
+		"extension": "f",
+		"mime": "",
+		"syntax": {
+			"ace": "fortran",
+			"geshi": "fortran",
+			"pygments": "fortran",
+			"highlights": "fortran",
+			"rouge": "fortran",
+			"codemirror": "fortran"
+		},
+		"ace_default": {
+	
+		}
+	},
+	"6": {
+		"name": "Whitespace",
+		"short": "WHITESPACE",
+		"extension": "ws",
+		"mime": "",
+		"syntax": {
+			"ace": "space",
+			"geshi": "whitespace",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+			"show_invisibles": true
+		}
+	},
+	"7": {
+		"name": "Ada95",
+		"short": "ADA95",
+		"extension": "adb",
+		"mime": "",
+		"syntax": {
+			"ace": "ada",
+			"geshi": "ada",
+			"pygments": "ada",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"8": {
+		"name": "Ocaml",
+		"short": "OCAML",
+		"extension": "ml",
+		"mime": "",
+		"syntax": {
+			"ace": "ocaml",
+			"geshi": "ocaml",
+			"pygments": "ocaml",
+			"highlights": "",
+			"rouge": "ocaml",
+			"codemirror": "mllike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"9": {
+		"name": "Intercal",
+		"short": "ICK",
+		"extension": "i",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "intercal",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"10": {
+		"name": "Java",
+		"short": "JAVA",
+		"extension": "java",
+		"mime": "",
+		"syntax": {
+			"ace": "java",
+			"geshi": "java",
+			"pygments": "java",
+			"highlights": "java",
+			"rouge": "java",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"11": {
+		"name": "C",
+		"short": "C",
+		"extension": "c",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "c",
+			"pygments": "c",
+			"highlights": "c",
+			"rouge": "c",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"12": {
+		"name": "Brainf**k",
+		"short": "BF",
+		"extension": "bf",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "bf",
+			"pygments": "bf",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": "brainfuck"
+		},
+		"ace_default": {
+
+		}
+	},
+	"13": {
+		"name": "Assembler 32bit",
+		"short": "ASM32",
+		"extension": "asm",
+		"mime": "",
+		"syntax": {
+			"ace": "assembly_x86",
+			"geshi": "asm",
+			"pygments": "nasm",
+			"highlights": "",
+			"rouge": "nasm",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"14": {
+		"name": "Clips",
+		"short": "CLPS",
+		"extension": "cli",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"15": {
+		"name": "Prolog",
+		"short": "PRLG-swi",
+		"extension": "pro",
+		"mime": "",
+		"syntax": {
+			"ace": "prolog",
+			"geshi": "prolog",
+			"pygments": "prolog",
+			"highlights": "",
+			"rouge": "prolog",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"16": {
+		"name": "Icon",
+		"short": "ICON",
+		"extension": "icn",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "icon",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"17": {
+		"name": "Ruby",
+		"short": "RUBY",
+		"extension": "rb",
+		"mime": "",
+		"syntax": {
+			"ace": "ruby",
+			"geshi": "ruby",
+			"pygments": "ruby",
+			"highlights": "ruby",
+			"rouge": "ruby",
+			"codemirror": "ruby"
+		},
+		"ace_default": {
+
+		}
+	},
+	"18": {
+		"name": "Scheme",
+		"short": "SCM qobi",
+		"extension": "scm",
+		"mime": "",
+		"syntax": {
+			"ace": "scheme",
+			"geshi": "scheme",
+			"pygments": "scheme",
+			"highlights": "",
+			"rouge": "scheme",
+			"codemirror": "scheme"
+		},
+		"ace_default": {
+
+		}
+	},
+	"19": {
+		"name": "Pike",
+		"short": "PIKE",
+		"extension": "pike",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "pike",
+			"pygments": "pike",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"20": {
+		"name": "D",
+		"short": "D",
+		"extension": "d",
+		"mime": "",
+		"syntax": {
+			"ace": "d",
+			"geshi": "d",
+			"pygments": "d",
+			"highlights": "",
+			"rouge": "d",
+			"codemirror": "d"
+		},
+		"ace_default": {
+
+		}
+	},
+	"21": {
+		"name": "Haskell",
+		"short": "HASK",
+		"extension": "hs",
+		"mime": "",
+		"syntax": {
+			"ace": "haskell",
+			"geshi": "haskell",
+			"pygments": "haskell",
+			"highlights": "",
+			"rouge": "haskell",
+			"codemirror": "haskell"
+		},
+		"ace_default": {
+
+		}
+	},
+	"22": {
+		"name": "Pascal",
+		"short": "PAS-FPC",
+		"extension": "pas",
+		"mime": "",
+		"syntax": {
+			"ace": "pascal",
+			"geshi": "pascal",
+			"pygments": "pascal",
+			"highlights": "",
+			"rouge": "pascal",
+			"codemirror": "pascal"
+		},
+		"ace_default": {
+
+		}
+	},
+	"23": {
+		"name": "Smalltalk",
+		"short": "ST",
+		"extension": "st",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "smalltalk",
+			"pygments": "smalltalk",
+			"highlights": "",
+			"rouge": "smalltalk",
+			"codemirror": "smalltalk"
+		},
+		"ace_default": {
+
+		}
+	},
+	"25": {
+		"name": "Nice",
+		"short": "NICE",
+		"extension": "nice",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"26": {
+		"name": "Lua",
+		"short": "LUA",
+		"extension": "lua",
+		"mime": "",
+		"syntax": {
+			"ace": "lua",
+			"geshi": "lua",
+			"pygments": "lua",
+			"highlights": "",
+			"rouge": "lua",
+			"codemirror": "lua"
+		},
+		"ace_default": {
+
+		}
+	},
+	"27": {
+		"name": "C#",
+		"short": "CSHARP",
+		"extension": "cs",
+		"mime": "",
+		"syntax": {
+			"ace": "csharp",
+			"geshi": "csharp",
+			"pygments": "csharp",
+			"highlights": "",
+			"rouge": "csharp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"28": {
+		"name": "Bash",
+		"short": "BASH",
+		"extension": "sh",
+		"mime": "",
+		"syntax": {
+			"ace": "sh",
+			"geshi": "bash",
+			"pygments": "bash",
+			"highlights": "",
+			"rouge": "bash",
+			"codemirror": "shell"
+		},
+		"ace_default": {
+
+		}
+	},
+	"29": {
+		"name": "PHP",
+		"short": "PHP",
+		"extension": "php",
+		"mime": "",
+		"syntax": {
+			"ace": "php",
+			"geshi": "php",
+			"pygments": "php",
+			"highlights": "php",
+			"rouge": "php",
+			"codemirror": "php"
+		},
+		"ace_default": {
+
+		}
+	},
+	"30": {
+		"name": "Nemerle",
+		"short": "NEM",
+		"extension": "n",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "nemerle",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"31": {
+		"name": "Common Lisp",
+		"short": "LISP sbcl",
+		"extension": "lisp",
+		"mime": "",
+		"syntax": {
+			"ace": "lisp",
+			"geshi": "lisp",
+			"pygments": "lisp",
+			"highlights": "",
+			"rouge": "lisp",
+			"codemirror": "commonlisp"
+		},
+		"ace_default": {
+
+		}
+	},
+	"32": {
+		"name": "Common Lisp",
+		"short": "LISP clisp",
+		"extension": "lisp",
+		"mime": "",
+		"syntax": {
+			"ace": "lisp",
+			"geshi": "lisp",
+			"pygments": "lisp",
+			"highlights": "",
+			"rouge": "lisp",
+			"codemirror": "commonlisp"
+		},
+		"ace_default": {
+
+		}
+	},
+	"33": {
+		"name": "Scheme",
+		"short": "SCM guile",
+		"extension": "scm",
+		"mime": "",
+		"syntax": {
+			"ace": "scheme",
+			"geshi": "scheme",
+			"pygments": "scheme",
+			"highlights": "",
+			"rouge": "scheme",
+			"codemirror": "scheme"
+		},
+		"ace_default": {
+
+		}
+	},
+	"34": {
+		"name": "C99",
+		"short": "C99",
+		"extension": "c",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "c",
+			"pygments": "c",
+			"highlights": "c",
+			"rouge": "c",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"35": {
+		"name": "JavaScript",
+		"short": "JS-RHINO",
+		"extension": "js",
+		"mime": "",
+		"syntax": {
+			"ace": "javascript",
+			"geshi": "javascript",
+			"pygments": "javascript",
+			"highlights": "javascript",
+			"rouge": "javascript",
+			"codemirror": "javascript"
+		},
+		"ace_default": {
+
+		}
+	},
+	"36": {
+		"name": "Erlang",
+		"short": "ERL",
+		"extension": "erl",
+		"mime": "",
+		"syntax": {
+			"ace": "erlang",
+			"geshi": "erlang",
+			"pygments": "erlang",
+			"highlights": "",
+			"rouge": "erlang",
+			"codemirror": "erlang"
+		},
+		"ace_default": {
+
+		}
+	},
+	"37": {
+		"name": "PHP+SQLITE",
+		"short": "PHP-DB",
+		"extension": "php",
+		"mime": "",
+		"syntax": {
+			"ace": "php",
+			"geshi": "php",
+			"pygments": "php",
+			"highlights": "php",
+			"rouge": "php",
+			"codemirror": "php"
+		},
+		"ace_default": {
+
+		}
+	},
+	"38": {
+		"name": "TCL",
+		"short": "TCL",
+		"extension": "tcl",
+		"mime": "",
+		"syntax": {
+			"ace": "tcl",
+			"geshi": "tcl",
+			"pygments": "tcl",
+			"highlights": "",
+			"rouge": "tcl",
+			"codemirror": "tcl"
+		},
+		"ace_default": {
+
+		}
+	},
+	"39": {
+		"name": "Scala",
+		"short": "SCALA",
+		"extension": "scala",
+		"mime": "",
+		"syntax": {
+			"ace": "scala",
+			"geshi": "scala",
+			"pygments": "scala",
+			"highlights": "java",
+			"rouge": "scala",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"40": {
+		"name": "SQLite",
+		"short": "SQLITE",
+		"extension": "sql",
+		"mime": "",
+		"syntax": {
+			"ace": "sql",
+			"geshi": "sql",
+			"pygments": "sql",
+			"highlights": "sql",
+			"rouge": "sql",
+			"codemirror": "sql"
+		},
+		"ace_default": {
+
+		}
+	},
+	"41": {
+		"name": "C++",
+		"short": "CPP-4",
+		"extension": "cpp",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "cpp",
+			"pygments": "cpp",
+			"highlights": "c",
+			"rouge": "cpp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"42": {
+		"name": "Assembler 64bit",
+		"short": "ASM64",
+		"extension": "asm",
+		"mime": "",
+		"syntax": {
+			"ace": "assembly_x86",
+			"geshi": "asm",
+			"pygments": "nasm",
+			"highlights": "",
+			"rouge": "nasm",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"43": {
+		"name": "Objective-C",
+		"short": "OBJC",
+		"extension": "m",
+		"mime": "",
+		"syntax": {
+			"ace": "objectivec",
+			"geshi": "objc",
+			"pygments": "objective-c",
+			"highlights": "objective-c",
+			"rouge": "objective-c",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"44": {
+		"name": "C++14",
+		"short": "CPP14",
+		"extension": "cpp",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "cpp",
+			"pygments": "cpp",
+			"highlights": "c",
+			"rouge": "cpp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"45": {
+		"name": "Assembler 32bit",
+		"short": "ASM32-GCC",
+		"extension": "s",
+		"mime": "",
+		"syntax": {
+			"ace": "assembly_x86",
+			"geshi": "asm",
+			"pygments": "nasm",
+			"highlights": "",
+			"rouge": "nasm",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"46": {
+		"name": "Sed",
+		"short": "SED",
+		"extension": "sed",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"47": {
+		"name": "Kotlin",
+		"short": "KTLN",
+		"extension": "kt",
+		"mime": "",
+		"syntax": {
+			"ace": "kotlin",
+			"geshi": "",
+			"pygments": "kotlin",
+			"highlights": "",
+			"rouge": "kotlin",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"48": {
+		"name": "Dart",
+		"short": "DART",
+		"extension": "dart",
+		"mime": "",
+		"syntax": {
+			"ace": "dart",
+			"geshi": "",
+			"pygments": "dart",
+			"highlights": "",
+			"rouge": "dart",
+			"codemirror": "dart"
+		},
+		"ace_default": {
+
+		}
+	},
+	"50": {
+		"name": "VB.net",
+		"short": "VB.NET",
+		"extension": "vb",
+		"mime": "",
+		"syntax": {
+			"ace": "vbscript",
+			"geshi": "vbnet",
+			"pygments": "vbnet",
+			"highlights": "",
+			"rouge": "vb",
+			"codemirror": "vb"
+		},
+		"ace_default": {
+
+		}
+	},
+	"51": {
+		"name": "ASP.net",
+		"short": "ASP.NET",
+		"extension": "asp",
+		"mime": "",
+		"syntax": {
+			"ace": "csharp",
+			"geshi": "csharp",
+			"pygments": "csharp",
+			"highlights": "",
+			"rouge": "csharp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"54": {
+		"name": "Perl",
+		"short": "PERL6",
+		"extension": "pl",
+		"mime": "",
+		"syntax": {
+			"ace": "perl",
+			"geshi": "perl",
+			"pygments": "perl6",
+			"highlights": "perl",
+			"rouge": "perl",
+			"codemirror": "perl"
+		},
+		"ace_default": {
+
+		}
+	},
+	"56": {
+		"name": "Node.js",
+		"short": "NODEJS",
+		"extension": "js",
+		"mime": "",
+		"syntax": {
+			"ace": "javascript",
+			"geshi": "javascript",
+			"pygments": "javascript",
+			"highlights": "javascript",
+			"rouge": "javascript",
+			"codemirror": "javascript"
+		},
+		"ace_default": {
+
+		}
+	},
+	"81": {
+		"name": "C",
+		"short": "C-CLANG",
+		"extension": "c",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "c",
+			"pygments": "c",
+			"highlights": "c",
+			"rouge": "c",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"82": {
+		"name": "C++14",
+		"short": "CPP14-CLANG",
+		"extension": "cpp",
+		"mime": "",
+		"syntax": {
+			"ace": "c_cpp",
+			"geshi": "cpp",
+			"pygments": "cpp",
+			"highlights": "c",
+			"rouge": "cpp",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"83": {
+		"name": "Objective-C",
+		"short": "OBJC-CLANG",
+		"extension": "m",
+		"mime": "",
+		"syntax": {
+			"ace": "objectivec",
+			"geshi": "objc",
+			"pygments": "objective-c",
+			"highlights": "objective-c",
+			"rouge": "objective-c",
+			"codemirror": "clike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"84": {
+		"name": "D",
+		"short": "D-CLANG",
+		"extension": "d",
+		"mime": "",
+		"syntax": {
+			"ace": "d",
+			"geshi": "d",
+			"pygments": "d",
+			"highlights": "",
+			"rouge": "d",
+			"codemirror": "d"
+		},
+		"ace_default": {
+
+		}
+	},
+	"85": {
+		"name": "Swift",
+		"short": "SWIFT",
+		"extension": "swift",
+		"mime": "",
+		"syntax": {
+			"ace": "swift",
+			"geshi": "",
+			"pygments": "swift",
+			"highlights": "",
+			"rouge": "swift",
+			"codemirror": "swift"
+		},
+		"ace_default": {
+
+		}
+	},
+	"91": {
+		"name": "CoffeeScript",
+		"short": "COFFEE",
+		"extension": "js",
+		"mime": "",
+		"syntax": {
+			"ace": "coffee",
+			"geshi": "coffeescript",
+			"pygments": "coffee-script",
+			"highlights": "coffee-script",
+			"rouge": "coffee-script",
+			"codemirror": "coffeescript"
+		},
+		"ace_default": {
+
+		}
+	},
+	"92": {
+		"name": "Fantom",
+		"short": "FANTOM",
+		"extension": "fan",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "fan",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"93": {
+		"name": "Rust",
+		"short": "RUST",
+		"extension": "rs",
+		"mime": "",
+		"syntax": {
+			"ace": "rust",
+			"geshi": "",
+			"pygments": "rust",
+			"highlights": "",
+			"rouge": "rust",
+			"codemirror": "rust"
+		},
+		"ace_default": {
+
+		}
+	},
+	"94": {
+		"name": "Pico Lisp",
+		"short": "PICO",
+		"extension": "l",
+		"mime": "",
+		"syntax": {
+			"ace": "lisp",
+			"geshi": "lisp",
+			"pygments": "lisp",
+			"highlights": "",
+			"rouge": "lisp",
+			"codemirror": "commonlisp"
+		},
+		"ace_default": {
+
+		}
+	},
+	"95": {
+		"name": "Racket",
+		"short": "RACKET",
+		"extension": "rkt",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "racket",
+			"highlights": "",
+			"rouge": "racket",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"96": {
+		"name": "Elixir",
+		"short": "ELIXIR",
+		"extension": "ex",
+		"mime": "",
+		"syntax": {
+			"ace": "elixir",
+			"geshi": "",
+			"pygments": "elixir",
+			"highlights": "",
+			"rouge": "elixir",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"97": {
+		"name": "Scheme",
+		"short": "CHICKEN",
+		"extension": "scheme",
+		"mime": "",
+		"syntax": {
+			"ace": "scheme",
+			"geshi": "scheme",
+			"pygments": "scheme",
+			"highlights": "",
+			"rouge": "scheme",
+			"codemirror": "scheme"
+		},
+		"ace_default": {
+
+		}
+	},
+	"98": {
+		"name": "Gosu",
+		"short": "GOSU",
+		"extension": "gosu",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "gosu",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"99": {
+		"name": "Python",
+		"short": "PYPY",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python"
+		},
+		"ace_default": {
+
+		}
+	},
+	"102": {
+		"name": "D",
+		"short": "D-DMD",
+		"extension": "d",
+		"mime": "",
+		"syntax": {
+			"ace": "d",
+			"geshi": "d",
+			"pygments": "d",
+			"highlights": "",
+			"rouge": "d",
+			"codemirror": "d"
+		},
+		"ace_default": {
+
+		}
+	},
+	"103": {
+		"name": "Python OPT",
+		"short": "Python OPT",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python"
+		},
+		"ace_default": {
+
+		}
+	},
+	"104": {
+		"name": "AWK",
+		"short": "GAWK",
+		"extension": "awk",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "awk",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"105": {
+		"name": "AWK",
+		"short": "MAWK",
+		"extension": "awk",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "awk",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"107": {
+		"name": "Forth",
+		"short": "FORTH",
+		"extension": "4th",
+		"mime": "",
+		"syntax": {
+			"ace": "forth",
+			"geshi": "",
+			"pygments": "forth",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": "forth"
+		},
+		"ace_default": {
+
+		}
+	},
+	"108": {
+		"name": "Prolog",
+		"short": "PROLOG",
+		"extension": "pl",
+		"mime": "",
+		"syntax": {
+			"ace": "prolog",
+			"geshi": "prolog",
+			"pygments": "prolog",
+			"highlights": "",
+			"rouge": "prolog",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"110": {
+		"name": "BC",
+		"short": "BC",
+		"extension": "bc",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "bc",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"111": {
+		"name": "Clojure",
+		"short": "CLOJURE",
+		"extension": "clj",
+		"mime": "",
+		"syntax": {
+			"ace": "clojure",
+			"geshi": "clojure",
+			"pygments": "clojure",
+			"highlights": "clojure",
+			"rouge": "clojure",
+			"codemirror": "clojure"
+		},
+		"ace_default": {
+
+		}
+	},
+	"112": {
+		"name": "JavaScript",
+		"short": "JS-MONKEY",
+		"extension": "js",
+		"mime": "",
+		"syntax": {
+			"ace": "javascript",
+			"geshi": "javascript",
+			"pygments": "javascript",
+			"highlights": "javascript",
+			"rouge": "javascript",
+			"codemirror": "javascript"
+		},
+		"ace_default": {
+
+		}
+	},
+	"114": {
+		"name": "Go",
+		"short": "GO",
+		"extension": "go",
+		"mime": "",
+		"syntax": {
+			"ace": "golang",
+			"geshi": "go",
+			"pygments": "go",
+			"highlights": "go",
+			"rouge": "go",
+			"codemirror": "go"
+		},
+		"ace_default": {
+
+		}
+	},
+	"115": {
+		"name": "Unlambda",
+		"short": "UNLAMBDA",
+		"extension": "unl",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"116": {
+		"name": "Python 3",
+		"short": "PYTHON3",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python"
+		},
+		"ace_default": {
+
+		}
+	},
+	"117": {
+		"name": "R",
+		"short": "R",
+		"extension": "r",
+		"mime": "",
+		"syntax": {
+			"ace": "r",
+			"geshi": "",
+			"pygments": "r",
+			"highlights": "",
+			"rouge": "r",
+			"codemirror": "r"
+		},
+		"ace_default": {
+
+		}
+	},
+	"118": {
+		"name": "Cobol",
+		"short": "COBOL",
+		"extension": "cob",
+		"mime": "",
+		"syntax": {
+			"ace": "cobol",
+			"geshi": "cobol",
+			"pygments": "cobol",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": "cobol"
+		},
+		"ace_default": {
+
+		}
+	},
+	"121": {
+		"name": "Groovy",
+		"short": "GRV",
+		"extension": "groovy",
+		"mime": "",
+		"syntax": {
+			"ace": "groovy",
+			"geshi": "groovy",
+			"pygments": "groovy",
+			"highlights": "",
+			"rouge": "groovy",
+			"codemirror": "groovy"
+		},
+		"ace_default": {
+
+		}
+	},
+	"122": {
+		"name": "Nim",
+		"short": "NIM",
+		"extension": "nim",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "",
+			"pygments": "nim",
+			"highlights": "",
+			"rouge": "nim",
+			"codemirror": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"124": {
+		"name": "F#",
+		"short": "FSHARP",
+		"extension": "fs",
+		"mime": "",
+		"syntax": {
+			"ace": "",
+			"geshi": "fsharp",
+			"pygments": "fsharp",
+			"highlights": "",
+			"rouge": "",
+			"codemirror": "mllike"
+		},
+		"ace_default": {
+
+		}
+	},
+	"126": {
+		"name": "Python 3 nbc",
+		"short": "PY_NBC",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python"
+		},
+		"ace_default": {
+
+		}
+	},
+	"127": {
+		"name": "Octave",
+		"short": "OCT",
+		"extension": "octave",
+		"mime": "",
+		"syntax": {
+			"ace": "matlab",
+			"geshi": "octave",
+			"pygments": "octave",
+			"highlights": "",
+			"rouge": "matlab",
+			"codemirror": "octave"
+		},
+		"ace_default": {
+
+		}
+	}
+}

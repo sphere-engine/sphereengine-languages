@@ -1,0 +1,131 @@
+{
+	"-1": {
+		"code": "NZEC",
+		"desc": ""	
+	},
+	"1": {
+		"code": "SIGHUP",
+		"desc": ""	
+	},
+	"2": {
+		"code": "SIGINT",
+		"desc": ""	
+	},
+	"3": {
+		"code": "SIGQUIT",
+		"desc": ""	
+	},
+	"4": {
+		"code": "SIGILL",
+		"desc": ""	
+	},
+	"5": {
+		"code": "SIGTRAP",
+		"desc": ""	
+	},
+	"6": {
+		"code": "SIGABRT",
+		"desc": ""	
+	},
+	"7": {
+		"code": "SIGBUS",
+		"desc": ""	
+	},
+	"8": {
+		"code": "SIGFPE",
+		"desc": ""	
+	},
+	"9": {
+		"code": "SIGKILL",
+		"desc": ""	
+	},
+	"10": {
+		"code": "SIGUSR1",
+		"desc": ""	
+	},
+	"11": {
+		"code": "SIGSEGV",
+		"desc": ""	
+	},
+	"12": {
+		"code": "SIGUSR2",
+		"desc": ""	
+	},
+	"13": {
+		"code": "SIGPIPE",
+		"desc": ""	
+	},
+	"14": {
+		"code": "SIGALRM",
+		"desc": ""	
+	},
+	"15": {
+		"code": "SIGTERM",
+		"desc": ""	
+	},
+	"16": {
+		"code": "SIGSTKFLT",
+		"desc": ""	
+	},
+	"17": {
+		"code": "SIGCHLD",
+		"desc": ""	
+	},
+	"18": {
+		"code": "SIGCONT",
+		"desc": ""	
+	},
+	"19": {
+		"code": "SIGSTOP",
+		"desc": ""	
+	},
+	"20": {
+		"code": "SIGTSTP",
+		"desc": ""	
+	},
+	"21": {
+		"code": "SIGTTIN",
+		"desc": ""	
+	},
+	"22": {
+		"code": "SIGTTOU",
+		"desc": ""	
+	},
+	"23": {
+		"code": "SIGURG",
+		"desc": ""	
+	},
+	"24": {
+		"code": "SIGXCPU",
+		"desc": ""	
+	},
+	"25": {
+		"code": "SIGXFSZ",
+		"desc": ""	
+	},
+	"26": {
+		"code": "SIGVTALRM",
+		"desc": ""	
+	},
+	"27": {
+		"code": "SIGPROF",
+		"desc": ""	
+	},
+	"28": {
+		"code": "SIGWINCH",
+		"desc": ""	
+	},
+	"29": {
+		"code": "SIGIO",
+		"desc": ""	
+	},
+	"30": {
+		"code": "SIGPWR",
+		"desc": ""	
+	},
+	"31": {
+		"code": "SIGSYS",
+		"desc": ""	
+	}
+
+}

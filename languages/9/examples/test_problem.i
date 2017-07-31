@@ -1,0 +1,55 @@
+	PLEASE DO ,1 <- #1
+	PLEASE DO .4 <- #0
+	PLEASE DO .5 <- #0
+	PLEASE DO .99 <- #0
+	DO COME FROM (30)
+	DO COME FROM (31)
+	DO WRITE IN ,1
+	DO .1 <- ,1SUB#1
+	DO .2 <- .4
+	DO (1000) NEXT
+	DO .4 <- .3~#255
+	DO (10) NEXT
+(42)	DO .1 <- .1
+(20)	DO .42 <- "&'&.4~#26'$#1"
+	PLEASE RESUME "?.42$#1"~#3
+(10)	DO (20) NEXT
+	DO FORGET #1
+	PLEASE COME FROM (42)	
+	PLEASE STASH .1+.2+.3
+	DO .1 <- .4
+	DO .2 <- #50
+	DO (1010) NEXT
+	DO (100) NEXT	
+	PLEASE STASH .1+.2+.3
+	DO .1 <- .99
+	DO .2 <- #52
+	DO (1010) NEXT
+	DO (101) NEXT
+	PLEASE GIVE UP
+(201)	DO .3 <- '.3~.3'~#1
+	PLEASE RESUME "?.3$#2"~#3
+(101)	DO (201) NEXT
+	DO FORGET #1
+(32)	PLEASE RETRIEVE .1+.2+.3
+(200)	DO .3 <- '.3~.3'~#1
+	PLEASE RESUME "?.3$#2"~#3
+(100)	DO (200) NEXT
+	DO FORGET #1
+	DO COME FROM (32)	
+	PLEASE RETRIEVE .1+.2+.3
+	DO (102) NEXT
+(31)	DO .99 <- .4
+(202)	DO .98 <- '.99~.99'~#1
+	PLEASE RESUME "?.98$#2"~#3
+(102)	DO (202) NEXT
+	DO FORGET #1
+	DO .3 <- !99~#15'$!99~#240'
+	DO .3 <- !3~#15'$!3~#240'
+	DO .2 <- !3~#15'$!3~#240'
+	DO .1 <- .5
+	DO (1010) NEXT
+	DO .5 <- .2
+	DO ,1SUB#1 <- .3
+	PLEASE READ OUT ,1
+(30)	DO .99 <- .4

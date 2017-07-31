@@ -1,0 +1,18 @@
+{
+	"templates": [
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.kt",
+			"type": ""
+		}
+	],
+	"examples": [
+		{
+			"name": "TEST problem",
+			"desc": "",
+			"file_source": "test_problem.kt",
+			"file_input": "test_problem.in"
+		}
+	]
+}

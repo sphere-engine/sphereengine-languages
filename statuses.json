@@ -1,0 +1,19 @@
+{
+	"0": "waiting for compilation",
+	"1": "compilation",
+	"2": "compilation",
+	"3": "running",
+	"4": "compilation",
+	"5": "running",
+	"6": "compilation",
+	"7": "running",
+	"8": "testing",
+	"11": "compilation error",
+	"12": "runtime error",
+	"13": "time limit exceeded",
+	"14": "wrong answer",
+	"15": "success",
+	"17": "memory limit exceeded",
+	"20": "internal error",
+	"21": "internal error"
+}

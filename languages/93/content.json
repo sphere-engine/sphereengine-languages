@@ -1,0 +1,18 @@
+{
+	"templates": [
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.rs",
+			"type": ""
+		}
+	],
+	"examples": [
+		{
+			"name": "TEST problem",
+			"desc": "",
+			"file_source": "test_problem.rs",
+			"file_input": "test_problem.in"
+		}
+	]
+}

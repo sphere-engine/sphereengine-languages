@@ -1,0 +1,15 @@
+{
+	"theme": "",
+	"keyboard_handler": "",
+	"font_size": 12,
+	"tab_size": 4,
+	"print_margin_column": 80,
+	"print_margin": true,
+	"highligth_gutter_line": true,
+	"show_fold_widgets": true,
+	"show_gutter": true,
+	"highlight_selected_word": true,
+	"highlight_active_line": true,
+	"use_wrap_mode": false,
+	"show_invisibles": false,
+}

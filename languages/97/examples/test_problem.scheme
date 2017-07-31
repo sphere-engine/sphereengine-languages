@@ -1,0 +1,6 @@
+(let loop ((number (read)))
+  (if (= number 42)
+      (exit)
+      (begin
+        (print number)
+        (loop (read)))))
