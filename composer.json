@@ -1,0 +1,17 @@
+{
+	"name" : "sphere-engine/sphereengine-languages",
+	"keywords" : [
+		"sphere engine",
+		"languages"
+	],
+	"homepage" : "http://sphere-engine.com",
+	"license" : "Apache v2",
+	"authors" : [{
+			"name" : "Sphere Research Labs Sp. z o.o.",
+			"homepage" : "https://github.com/sphere-engine/sphereengine-languages"
+		}
+	],
+	"require" : {
+		"ext-json" : "*"
+	}
+}
