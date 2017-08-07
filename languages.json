@@ -98,7 +98,7 @@
 			"codemirror": ""
 		},
 		"ace_default": {
-			"show_invisibles": true
+			"showInvisibles": true
 		}
 	},
 	"7": {
