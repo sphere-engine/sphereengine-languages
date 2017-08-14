@@ -3,7 +3,7 @@
 		{
 			"name": "Clean template",
 			"desc": "",
-			"file_source": "clean.php",
+			"file_source": "clean.php_ex",
 			"type": ""
 		}
 	],
@@ -11,7 +11,7 @@
 		{
 			"name": "TEST problem",
 			"desc": "",
-			"file_source": "test_problem.php",
+			"file_source": "test_problem.php_ex",
 			"file_input": "test_problem.in"
 		}
 	]
