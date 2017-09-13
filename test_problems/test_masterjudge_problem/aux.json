@@ -1,0 +1,116 @@
+{
+    "testcases": {
+        "0": {
+            "status": "AC",
+            "score": 0,
+            "time": 0,
+            "memory": 0,
+            "selected": false
+        },
+        "1": {
+            "status": "AC",
+            "score": 1,
+            "time": 0.2,
+            "memory": 10,
+            "selected": true
+        },
+        "2": {
+            "status": "AC",
+            "score": 3.14,
+            "time": 0.4,
+            "memory": 20,
+            "selected": true
+        },
+        "3": {
+            "status": "AC",
+            "score": 16,
+            "time": 0.6,
+            "memory": 30,
+            "selected": false
+        },
+        "4": {
+            "status": "WA",
+            "score": 0,
+            "time": 0,
+            "memory": 0,
+            "selected": true
+        },
+        "5": {
+            "status": "WA",
+            "score": 0,
+            "time": 0.2,
+            "memory": 10,
+            "selected": false
+        },
+        "6": {
+            "status": "WA",
+            "score": 0,
+            "time": 0.4,
+            "memory": 20,
+            "selected": false
+        },
+        "7": {
+            "status": "WA",
+            "score": 0,
+            "time": 0.6,
+            "memory": 30,
+            "selected": false
+        },
+        "8": {
+            "status": "TLE",
+            "score": 0,
+            "time": 1,
+            "memory": 0,
+            "selected": true
+        },
+        "9": {
+            "status": "TLE",
+            "score": 0,
+            "time": 1,
+            "memory": 10,
+            "selected": false
+        },
+        "10": {
+            "status": "TLE",
+            "score": 0,
+            "time": 1,
+            "memory": 20,
+            "selected": false
+        },
+        "11": {
+            "status": "TLE",
+            "score": 0,
+            "time": 1,
+            "memory": 30,
+            "selected": false
+        },
+        "12": {
+            "status": "RE",
+            "score": 0,
+            "time": 0,
+            "memory": 0,
+            "selected": true
+        },
+        "13": {
+            "status": "RE",
+            "score": 0,
+            "time": 0.2,
+            "memory": 10,
+            "selected": false
+        },
+        "14": {
+            "status": "RE",
+            "score": 0,
+            "time": 0.4,
+            "memory": 20,
+            "selected": false
+        },
+        "15": {
+            "status": "RE",
+            "score": 0,
+            "time": 0.6,
+            "memory": 30,
+            "selected": false
+        }
+    }
+}
