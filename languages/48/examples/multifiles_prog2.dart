@@ -1,0 +1,3 @@
+void second() {
+    print("second");
+}

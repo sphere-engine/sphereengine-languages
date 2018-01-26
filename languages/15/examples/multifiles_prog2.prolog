@@ -1,0 +1,2 @@
+second :-
+    write("second").

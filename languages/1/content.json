@@ -13,6 +13,16 @@
 			"desc": "",
 			"file_source": "test_problem.cpp",
 			"file_input": "test_problem.in"
+		},
+		{
+			"name": "Multi-files",
+			"desc": "Simple example how you can use multi files.",
+			"file_source": {
+				"prog.cpp": "multifiles_prog.cpp",
+				"prog2.cpp": "multifiles_prog2.cpp",
+				"prog2.hpp": "multifiles_prog.hpp"
+			},
+			"file_input": ""
 		}
 	]
 }

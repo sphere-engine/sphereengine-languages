@@ -1,0 +1,3 @@
+function second() {
+    print "second"
+}

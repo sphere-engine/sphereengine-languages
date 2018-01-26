@@ -1,0 +1,2 @@
+def second():
+    print('second')

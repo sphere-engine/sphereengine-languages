@@ -13,6 +13,15 @@
 			"desc": "",
 			"file_source": "test_problem.java",
 			"file_input": "test_problem.in"
+		},
+		{
+			"name": "Multi-files",
+			"desc": "Simple example how you can use multi files.",
+			"file_source": {
+				"Main.java": "multifiles_prog.java",
+				"Second.java": "multifiles_prog2.java"
+			},
+			"file_input": ""
 		}
 	]
 }
