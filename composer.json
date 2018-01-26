@@ -1,11 +1,12 @@
 {
 	"name" : "sphereengine/sphereengine-languages",
+	"description" : "Common configuration for programming languages used in Sphere Engine Projects",
 	"keywords" : [
 		"sphere engine",
 		"languages"
 	],
 	"homepage" : "http://sphere-engine.com",
-	"license" : "Apache v2",
+	"license" : "Apache-2.0",
 	"authors" : [{
 			"name" : "Sphere Research Labs Sp. z o.o.",
 			"homepage" : "https://github.com/sphere-engine/sphereengine-languages"
