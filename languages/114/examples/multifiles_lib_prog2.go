@@ -1,6 +1,6 @@
 package lib
 
 import "fmt"
-func second() {
+func Second() {
     fmt.Println("second")
 }
