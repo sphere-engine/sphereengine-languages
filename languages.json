@@ -10,7 +10,8 @@
 			"pygments": "cpp",
 			"highlights": "c",
 			"rouge": "cpp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 	
@@ -27,7 +28,8 @@
 			"pygments": "pascal",
 			"highlights": "",
 			"rouge": "pascal",
-			"codemirror": "pascal"
+			"codemirror": "pascal",
+			"highlightjs": "delphi"
 		},
 		"ace_default": {
 	
@@ -44,7 +46,8 @@
 			"pygments": "perl",
 			"highlights": "perl",
 			"rouge": "perl",
-			"codemirror": "perl"
+			"codemirror": "perl",
+			"highlightjs": "perl"
 		},
 		"ace_default": {
 	
@@ -61,7 +64,8 @@
 			"pygments": "python",
 			"highlights": "python",
 			"rouge": "python",
-			"codemirror": "python"
+			"codemirror": "python",
+			"highlightjs": "python"
 		},
 		"ace_default": {
 	
@@ -78,7 +82,8 @@
 			"pygments": "fortran",
 			"highlights": "fortran",
 			"rouge": "fortran",
-			"codemirror": "fortran"
+			"codemirror": "fortran",
+			"highlightjs": "fortran"
 		},
 		"ace_default": {
 	
@@ -95,7 +100,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 			"showInvisibles": true
@@ -112,7 +118,8 @@
 			"pygments": "ada",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "ada"
 		},
 		"ace_default": {
 
@@ -129,7 +136,8 @@
 			"pygments": "ocaml",
 			"highlights": "",
 			"rouge": "ocaml",
-			"codemirror": "mllike"
+			"codemirror": "mllike",
+			"highlightjs": "ocaml"
 		},
 		"ace_default": {
 
@@ -146,7 +154,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -163,7 +172,8 @@
 			"pygments": "java",
 			"highlights": "java",
 			"rouge": "java",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "java"
 		},
 		"ace_default": {
 
@@ -180,7 +190,8 @@
 			"pygments": "c",
 			"highlights": "c",
 			"rouge": "c",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -197,7 +208,8 @@
 			"pygments": "bf",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": "brainfuck"
+			"codemirror": "brainfuck",
+			"highlightjs": "brainfuck"
 		},
 		"ace_default": {
 
@@ -214,7 +226,8 @@
 			"pygments": "nasm",
 			"highlights": "",
 			"rouge": "nasm",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "x86asm"
 		},
 		"ace_default": {
 
@@ -231,7 +244,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -248,7 +262,8 @@
 			"pygments": "prolog",
 			"highlights": "",
 			"rouge": "prolog",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "prolog"
 		},
 		"ace_default": {
 
@@ -265,7 +280,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -282,7 +298,8 @@
 			"pygments": "ruby",
 			"highlights": "ruby",
 			"rouge": "ruby",
-			"codemirror": "ruby"
+			"codemirror": "ruby",
+			"highlightjs": "ruby"
 		},
 		"ace_default": {
 
@@ -299,7 +316,8 @@
 			"pygments": "scheme",
 			"highlights": "",
 			"rouge": "scheme",
-			"codemirror": "scheme"
+			"codemirror": "scheme",
+			"highlightjs": "scheme"
 		},
 		"ace_default": {
 
@@ -316,7 +334,8 @@
 			"pygments": "pike",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -333,7 +352,8 @@
 			"pygments": "d",
 			"highlights": "",
 			"rouge": "d",
-			"codemirror": "d"
+			"codemirror": "d",
+			"highlightjs": "d"
 		},
 		"ace_default": {
 
@@ -350,7 +370,8 @@
 			"pygments": "haskell",
 			"highlights": "",
 			"rouge": "haskell",
-			"codemirror": "haskell"
+			"codemirror": "haskell",
+			"highlightjs": "haskell"
 		},
 		"ace_default": {
 
@@ -367,7 +388,8 @@
 			"pygments": "pascal",
 			"highlights": "",
 			"rouge": "pascal",
-			"codemirror": "pascal"
+			"codemirror": "pascal",
+			"highlightjs": "delphi"
 		},
 		"ace_default": {
 
@@ -384,7 +406,8 @@
 			"pygments": "smalltalk",
 			"highlights": "",
 			"rouge": "smalltalk",
-			"codemirror": "smalltalk"
+			"codemirror": "smalltalk",
+			"highlightjs": "smalltalk"
 		},
 		"ace_default": {
 
@@ -401,7 +424,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -418,7 +442,8 @@
 			"pygments": "lua",
 			"highlights": "",
 			"rouge": "lua",
-			"codemirror": "lua"
+			"codemirror": "lua",
+			"highlightjs": "lua"
 		},
 		"ace_default": {
 
@@ -435,7 +460,8 @@
 			"pygments": "csharp",
 			"highlights": "",
 			"rouge": "csharp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cs"
 		},
 		"ace_default": {
 
@@ -452,7 +478,8 @@
 			"pygments": "bash",
 			"highlights": "",
 			"rouge": "bash",
-			"codemirror": "shell"
+			"codemirror": "shell",
+			"highlightjs": "bash"
 		},
 		"ace_default": {
 
@@ -469,7 +496,8 @@
 			"pygments": "php",
 			"highlights": "php",
 			"rouge": "php",
-			"codemirror": "php"
+			"codemirror": "php",
+			"highlightjs": "php"
 		},
 		"ace_default": {
 
@@ -486,7 +514,8 @@
 			"pygments": "nemerle",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -503,7 +532,8 @@
 			"pygments": "lisp",
 			"highlights": "",
 			"rouge": "lisp",
-			"codemirror": "commonlisp"
+			"codemirror": "commonlisp",
+			"highlightjs": "lisp"
 		},
 		"ace_default": {
 
@@ -520,7 +550,8 @@
 			"pygments": "lisp",
 			"highlights": "",
 			"rouge": "lisp",
-			"codemirror": "commonlisp"
+			"codemirror": "commonlisp",
+			"highlightjs": "lisp"
 		},
 		"ace_default": {
 
@@ -537,7 +568,8 @@
 			"pygments": "scheme",
 			"highlights": "",
 			"rouge": "scheme",
-			"codemirror": "scheme"
+			"codemirror": "scheme",
+			"highlightjs": "scheme"
 		},
 		"ace_default": {
 
@@ -554,7 +586,8 @@
 			"pygments": "c",
 			"highlights": "c",
 			"rouge": "c",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -571,7 +604,8 @@
 			"pygments": "javascript",
 			"highlights": "javascript",
 			"rouge": "javascript",
-			"codemirror": "javascript"
+			"codemirror": "javascript",
+			"highlightjs": "javascript"
 		},
 		"ace_default": {
 
@@ -588,7 +622,8 @@
 			"pygments": "erlang",
 			"highlights": "",
 			"rouge": "erlang",
-			"codemirror": "erlang"
+			"codemirror": "erlang",
+			"highlightjs": "erlang"
 		},
 		"ace_default": {
 
@@ -605,7 +640,8 @@
 			"pygments": "php",
 			"highlights": "php",
 			"rouge": "php",
-			"codemirror": "php"
+			"codemirror": "php",
+			"highlightjs": "php"
 		},
 		"ace_default": {
 
@@ -622,7 +658,8 @@
 			"pygments": "tcl",
 			"highlights": "",
 			"rouge": "tcl",
-			"codemirror": "tcl"
+			"codemirror": "tcl",
+			"highlightjs": "tcl"
 		},
 		"ace_default": {
 
@@ -639,7 +676,8 @@
 			"pygments": "scala",
 			"highlights": "java",
 			"rouge": "scala",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "scala"
 		},
 		"ace_default": {
 
@@ -656,7 +694,8 @@
 			"pygments": "sql",
 			"highlights": "sql",
 			"rouge": "sql",
-			"codemirror": "sql"
+			"codemirror": "sql",
+			"highlightjs": "sql"
 		},
 		"ace_default": {
 
@@ -673,7 +712,8 @@
 			"pygments": "cpp",
 			"highlights": "c",
 			"rouge": "cpp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -690,7 +730,8 @@
 			"pygments": "nasm",
 			"highlights": "",
 			"rouge": "nasm",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "x86asm"
 		},
 		"ace_default": {
 
@@ -707,7 +748,8 @@
 			"pygments": "objective-c",
 			"highlights": "objective-c",
 			"rouge": "objective-c",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "objectivec"
 		},
 		"ace_default": {
 
@@ -724,7 +766,8 @@
 			"pygments": "cpp",
 			"highlights": "c",
 			"rouge": "cpp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -741,7 +784,8 @@
 			"pygments": "nasm",
 			"highlights": "",
 			"rouge": "nasm",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "x86asm"
 		},
 		"ace_default": {
 
@@ -758,7 +802,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -775,7 +820,8 @@
 			"pygments": "kotlin",
 			"highlights": "",
 			"rouge": "kotlin",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "kotlin"
 		},
 		"ace_default": {
 
@@ -792,7 +838,8 @@
 			"pygments": "dart",
 			"highlights": "",
 			"rouge": "dart",
-			"codemirror": "dart"
+			"codemirror": "dart",
+			"highlightjs": "dart"
 		},
 		"ace_default": {
 
@@ -809,7 +856,8 @@
 			"pygments": "vbnet",
 			"highlights": "",
 			"rouge": "vb",
-			"codemirror": "vb"
+			"codemirror": "vb",
+			"highlightjs": "vbnet"
 		},
 		"ace_default": {
 
@@ -826,7 +874,8 @@
 			"pygments": "csharp",
 			"highlights": "",
 			"rouge": "csharp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -843,7 +892,8 @@
 			"pygments": "perl6",
 			"highlights": "perl",
 			"rouge": "perl",
-			"codemirror": "perl"
+			"codemirror": "perl",
+			"highlightjs": "perl"
 		},
 		"ace_default": {
 
@@ -860,7 +910,8 @@
 			"pygments": "javascript",
 			"highlights": "javascript",
 			"rouge": "javascript",
-			"codemirror": "javascript"
+			"codemirror": "javascript",
+			"highlightjs": "javascript"
 		},
 		"ace_default": {
 
@@ -877,7 +928,8 @@
 			"pygments": "c",
 			"highlights": "c",
 			"rouge": "c",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -894,7 +946,8 @@
 			"pygments": "cpp",
 			"highlights": "c",
 			"rouge": "cpp",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "cpp"
 		},
 		"ace_default": {
 
@@ -911,7 +964,8 @@
 			"pygments": "objective-c",
 			"highlights": "objective-c",
 			"rouge": "objective-c",
-			"codemirror": "clike"
+			"codemirror": "clike",
+			"highlightjs": "objectivec"
 		},
 		"ace_default": {
 
@@ -928,7 +982,8 @@
 			"pygments": "d",
 			"highlights": "",
 			"rouge": "d",
-			"codemirror": "d"
+			"codemirror": "d",
+			"highlightjs": "d"
 		},
 		"ace_default": {
 
@@ -945,7 +1000,8 @@
 			"pygments": "swift",
 			"highlights": "",
 			"rouge": "swift",
-			"codemirror": "swift"
+			"codemirror": "swift",
+			"highlightjs": "swift"
 		},
 		"ace_default": {
 
@@ -962,7 +1018,8 @@
 			"pygments": "coffee-script",
 			"highlights": "coffee-script",
 			"rouge": "coffee-script",
-			"codemirror": "coffeescript"
+			"codemirror": "coffeescript",
+			"highlightjs": "coffeescript"
 		},
 		"ace_default": {
 
@@ -979,7 +1036,8 @@
 			"pygments": "fan",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -996,7 +1054,8 @@
 			"pygments": "rust",
 			"highlights": "",
 			"rouge": "rust",
-			"codemirror": "rust"
+			"codemirror": "rust",
+			"highlightjs": "rust"
 		},
 		"ace_default": {
 
@@ -1013,7 +1072,8 @@
 			"pygments": "lisp",
 			"highlights": "",
 			"rouge": "lisp",
-			"codemirror": "commonlisp"
+			"codemirror": "commonlisp",
+			"highlightjs": "lisp"
 		},
 		"ace_default": {
 
@@ -1030,7 +1090,8 @@
 			"pygments": "racket",
 			"highlights": "",
 			"rouge": "racket",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1047,7 +1108,8 @@
 			"pygments": "elixir",
 			"highlights": "",
 			"rouge": "elixir",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "elixir"
 		},
 		"ace_default": {
 
@@ -1064,7 +1126,8 @@
 			"pygments": "scheme",
 			"highlights": "",
 			"rouge": "scheme",
-			"codemirror": "scheme"
+			"codemirror": "scheme",
+			"highlightjs": "scheme"
 		},
 		"ace_default": {
 
@@ -1081,7 +1144,8 @@
 			"pygments": "gosu",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1098,7 +1162,8 @@
 			"pygments": "python",
 			"highlights": "python",
 			"rouge": "python",
-			"codemirror": "python"
+			"codemirror": "python",
+			"highlightjs": "python"
 		},
 		"ace_default": {
 
@@ -1115,7 +1180,8 @@
 			"pygments": "d",
 			"highlights": "",
 			"rouge": "d",
-			"codemirror": "d"
+			"codemirror": "d",
+			"highlightjs": "d"
 		},
 		"ace_default": {
 
@@ -1132,7 +1198,8 @@
 			"pygments": "python",
 			"highlights": "python",
 			"rouge": "python",
-			"codemirror": "python"
+			"codemirror": "python",
+			"highlightjs": "python"
 		},
 		"ace_default": {
 
@@ -1149,7 +1216,8 @@
 			"pygments": "awk",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "awk"
 		},
 		"ace_default": {
 
@@ -1166,7 +1234,8 @@
 			"pygments": "awk",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "awk"
 		},
 		"ace_default": {
 
@@ -1183,7 +1252,8 @@
 			"pygments": "forth",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": "forth"
+			"codemirror": "forth",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1200,7 +1270,8 @@
 			"pygments": "prolog",
 			"highlights": "",
 			"rouge": "prolog",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": "prolog"
 		},
 		"ace_default": {
 
@@ -1217,7 +1288,8 @@
 			"pygments": "bc",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1234,7 +1306,8 @@
 			"pygments": "clojure",
 			"highlights": "clojure",
 			"rouge": "clojure",
-			"codemirror": "clojure"
+			"codemirror": "clojure",
+			"highlightjs": "clojure"
 		},
 		"ace_default": {
 
@@ -1251,7 +1324,8 @@
 			"pygments": "javascript",
 			"highlights": "javascript",
 			"rouge": "javascript",
-			"codemirror": "javascript"
+			"codemirror": "javascript",
+			"highlightjs": "javascript"
 		},
 		"ace_default": {
 
@@ -1268,7 +1342,8 @@
 			"pygments": "go",
 			"highlights": "go",
 			"rouge": "go",
-			"codemirror": "go"
+			"codemirror": "go",
+			"highlightjs": "go"
 		},
 		"ace_default": {
 
@@ -1285,7 +1360,8 @@
 			"pygments": "",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1302,7 +1378,8 @@
 			"pygments": "python",
 			"highlights": "python",
 			"rouge": "python",
-			"codemirror": "python"
+			"codemirror": "python",
+			"highlightjs": "python"
 		},
 		"ace_default": {
 
@@ -1319,7 +1396,8 @@
 			"pygments": "r",
 			"highlights": "",
 			"rouge": "r",
-			"codemirror": "r"
+			"codemirror": "r",
+			"highlightjs": "r"
 		},
 		"ace_default": {
 
@@ -1336,7 +1414,8 @@
 			"pygments": "cobol",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": "cobol"
+			"codemirror": "cobol",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1353,7 +1432,8 @@
 			"pygments": "groovy",
 			"highlights": "",
 			"rouge": "groovy",
-			"codemirror": "groovy"
+			"codemirror": "groovy",
+			"highlightjs": "groovy"
 		},
 		"ace_default": {
 
@@ -1370,7 +1450,8 @@
 			"pygments": "nim",
 			"highlights": "",
 			"rouge": "nim",
-			"codemirror": ""
+			"codemirror": "",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
@@ -1387,7 +1468,8 @@
 			"pygments": "fsharp",
 			"highlights": "",
 			"rouge": "",
-			"codemirror": "mllike"
+			"codemirror": "mllike",
+			"highlightjs": "fsharp"
 		},
 		"ace_default": {
 
@@ -1404,7 +1486,8 @@
 			"pygments": "python",
 			"highlights": "python",
 			"rouge": "python",
-			"codemirror": "python"
+			"codemirror": "python",
+			"highlightjs": "python"
 		},
 		"ace_default": {
 
@@ -1421,7 +1504,8 @@
 			"pygments": "octave",
 			"highlights": "",
 			"rouge": "matlab",
-			"codemirror": "octave"
+			"codemirror": "octave",
+			"highlightjs": ""
 		},
 		"ace_default": {
 
