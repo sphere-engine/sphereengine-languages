@@ -18,8 +18,8 @@
 			"name": "Multi-files",
 			"desc": "Simple example how you can use multi files.",
 			"file_source": {
-				"prog.php": "multifiles_prog.php",
-				"prog2.php": "multifiles_prog2.php"
+				"prog.php": "multifiles_prog.php_ex",
+				"prog2.php": "multifiles_prog2.php_ex"
 			},
 			"file_input": ""
 		}

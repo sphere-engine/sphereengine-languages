@@ -1,6 +1,11 @@
 {
 	"templates": [
-		
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.scm",
+			"type": ""
+		}
 	],
 	"examples": [
 		{

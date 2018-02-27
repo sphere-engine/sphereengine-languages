@@ -1,12 +1,17 @@
 {
 	"templates": [
-		
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.php_ex",
+			"type": ""
+		}
 	],
 	"examples": [
 		{
 			"name": "Simple example",
 			"desc": "",
-			"file_source": "simple_example.php",
+			"file_source": "simple_example.php_ex",
 			"file_input": ""
 		}
 	]

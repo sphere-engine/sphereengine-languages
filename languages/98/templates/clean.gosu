@@ -4,3 +4,4 @@ uses java.lang.System
 
 var scanner = new Scanner( new InputStreamReader( System.in ) )
 
+// your code goes here
