@@ -1270,11 +1270,11 @@
 			"pygments": "racket",
 			"highlights": "",
 			"rouge": "racket",
-			"codemirror": "",
-			"highlightjs": "",
-			"prism": "",
+			"codemirror": "scheme",
+			"highlightjs": "scheme",
+			"prism": "scheme",
 			"monaco": "",
-			"code_prettify": ""
+			"code_prettify": "scm"
 		},
 		"ace_default": {
 
