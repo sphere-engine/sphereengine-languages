@@ -1049,6 +1049,27 @@
 
 		}
 	},
+	"55": {
+		"name": "Java",
+		"short": "JAVA",
+		"extension": "java",
+		"mime": "",
+		"syntax": {
+			"ace": "java",
+			"geshi": "java",
+			"pygments": "java",
+			"highlights": "java",
+			"rouge": "java",
+			"codemirror": "clike",
+			"highlightjs": "java",
+			"prism": "java",
+			"monaco": "java",
+			"code_prettify": "java"
+		},
+		"ace_default": {
+
+		}
+	},
 	"56": {
 		"name": "Node.js",
 		"short": "NODEJS",
