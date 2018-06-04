@@ -4,14 +4,14 @@
 using namespace std;
 
 // used to contol execution time
-void wait_milliseconds(int ms)
+void wait_milliseconds(unsigned long long ms)
 {
-	int diff;
+	unsigned long long diff;
 	timespec start, current;
 	clock_gettime(CLOCK_THREAD_CPUTIME_ID, &start);
 	do {
 		clock_gettime(CLOCK_THREAD_CPUTIME_ID, &current);
-		diff = int( current.tv_nsec - start.tv_nsec );
+		diff = (unsigned long long) (current.tv_sec * 1000000000 + current.tv_nsec - start.tv_nsec);
 	} while (diff < 1000000 * (ms + 1));
 }
 
