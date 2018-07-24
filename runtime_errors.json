@@ -33,7 +33,7 @@
 	},
 	"8": {
 		"code": "SIGFPE",
-		"desc": "The SIGFPE signal is sent to a process when it executes an erroneous arithmetic operation, such as division by zero (the name "FPE", standing for floating-point exception, is a misnomer as the signal covers integer-arithmetic errors as well)."
+		"desc": "The SIGFPE signal is sent to a process when it executes an erroneous arithmetic operation, such as division by zero (the name \"FPE\", standing for floating-point exception, is a misnomer as the signal covers integer-arithmetic errors as well)."
 	},
 	"9": {
 		"code": "SIGKILL",
