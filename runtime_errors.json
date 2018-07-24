@@ -1,131 +1,131 @@
 {
 	"-1": {
 		"code": "NZEC",
-		"desc": ""	
+		"desc": "Non-zero exit code was returned by program."
 	},
 	"1": {
 		"code": "SIGHUP",
-		"desc": ""	
+		"desc": "The SIGHUP signal is sent to a process when its controlling terminal is closed."
 	},
 	"2": {
 		"code": "SIGINT",
-		"desc": ""	
+		"desc": "The SIGINT signal is sent to a process by its controlling terminal when a user wishes to interrupt the process. This is typically initiated by pressing Ctrl+C, but on some systems, the \"delete\" character or \"break\" key can be used."
 	},
 	"3": {
 		"code": "SIGQUIT",
-		"desc": ""	
+		"desc": "The SIGQUIT signal is sent to a process by its controlling terminal when the user requests that the process quit and perform a core dump."
 	},
 	"4": {
 		"code": "SIGILL",
-		"desc": ""	
+		"desc": "The SIGILL signal is sent to a process when it attempts to execute an illegal, malformed, unknown, or privileged instruction."
 	},
 	"5": {
 		"code": "SIGTRAP",
-		"desc": ""	
+		"desc": "The SIGTRAP signal is sent to a process when an exception (or trap) occurs: a condition that a debugger has requested to be informed of — for example, when a particular function is executed, or when a particular variable changes value."
 	},
 	"6": {
 		"code": "SIGABRT",
-		"desc": ""	
+		"desc": "The SIGABRT signal is sent to a process to tell it to abort, i.e. to terminate. The signal is usually initiated by the process itself when it calls abort() function of the C Standard Library, but it can be sent to the process from outside like any other signal."
 	},
 	"7": {
 		"code": "SIGBUS",
-		"desc": ""	
+		"desc": "The SIGBUS signal is sent to a process when it causes a bus error. The conditions that lead to the signal being sent are, for example, incorrect memory access alignment or non-existent physical address."
 	},
 	"8": {
 		"code": "SIGFPE",
-		"desc": ""	
+		"desc": "The SIGFPE signal is sent to a process when it executes an erroneous arithmetic operation, such as division by zero (the name "FPE", standing for floating-point exception, is a misnomer as the signal covers integer-arithmetic errors as well)."
 	},
 	"9": {
 		"code": "SIGKILL",
-		"desc": ""	
+		"desc": "The SIGKILL signal is sent to a process to cause it to terminate immediately (kill). In contrast to SIGTERM and SIGINT, this signal cannot be caught or ignored, and the receiving process cannot perform any clean-up upon receiving this signal."
 	},
 	"10": {
 		"code": "SIGUSR1",
-		"desc": ""	
+		"desc": "The SIGUSR1 signal is sent to a process to indicate user-defined condition."
 	},
 	"11": {
 		"code": "SIGSEGV",
-		"desc": ""	
+		"desc": "The SIGSEGV signal is sent to a process when it makes an invalid virtual memory reference, or segmentation fault, i.e. when it performs a segmentation violation."
 	},
 	"12": {
 		"code": "SIGUSR2",
-		"desc": ""	
+		"desc": "The SIGUSR2 signal is sent to a process to indicate user-defined condition."
 	},
 	"13": {
 		"code": "SIGPIPE",
-		"desc": ""	
+		"desc": "The SIGPIPE signal is sent to a process when it attempts to write to a pipe without a process connected to the other end."
 	},
 	"14": {
 		"code": "SIGALRM",
-		"desc": ""	
+		"desc": "The SIGALRM signal is sent to a process when the time limit specified in a call to a preceding alarm setting function (such as setitimer) elapses. SIGALRM is sent when real or clock time elapses."
 	},
 	"15": {
 		"code": "SIGTERM",
-		"desc": ""	
+		"desc": "The SIGTERM signal is sent to a process to request its termination. Unlike the SIGKILL signal, it can be caught and interpreted or ignored by the process. This allows the process to perform nice termination releasing resources and saving state if appropriate. SIGINT is nearly identical to SIGTERM."
 	},
 	"16": {
 		"code": "SIGSTKFLT",
-		"desc": ""	
+		"desc": "The SIGSTKFLT signal is sent to a process when the coprocessor experiences a stack fault (i.e. popping when the stack is empty or pushing when it is full)."
 	},
 	"17": {
 		"code": "SIGCHLD",
-		"desc": ""	
+		"desc": "The SIGCHLD signal is sent to a process when a child process terminates, is interrupted, or resumes after being interrupted. One common usage of the signal is to instruct the operating system to clean up the resources used by a child process after its termination without an explicit call to the wait system call."
 	},
 	"18": {
 		"code": "SIGCONT",
-		"desc": ""	
+		"desc": "The SIGCONT signal instructs the operating system to continue (restart) a process previously paused by the SIGSTOP or SIGTSTP signal. One important use of this signal is in job control in the Unix shell."
 	},
 	"19": {
 		"code": "SIGSTOP",
-		"desc": ""	
+		"desc": "The SIGSTOP signal instructs the operating system to stop a process for later resumption."
 	},
 	"20": {
 		"code": "SIGTSTP",
-		"desc": ""	
+		"desc": "he SIGTSTP signal is sent to a process by its controlling terminal to request it to stop (terminal stop). It is commonly initiated by the user pressing Ctrl+Z. Unlike SIGSTOP, the process can register a signal handler for or ignore the signal."
 	},
 	"21": {
 		"code": "SIGTTIN",
-		"desc": ""	
+		"desc": "The SIGTTIN signal is sent to a process when it attempts to read in or write out respectively from the tty while in the background. Typically, these signals are received only by processes under job control; daemons do not have controlling terminals and, therefore, should never receive these signals."
 	},
 	"22": {
 		"code": "SIGTTOU",
-		"desc": ""	
+		"desc": "The SIGTTOU signal is sent to a process when it attempts to read in or write out respectively from the tty while in the background. Typically, these signals are received only by processes under job control; daemons do not have controlling terminals and, therefore, should never receive these signals."
 	},
 	"23": {
 		"code": "SIGURG",
-		"desc": ""	
+		"desc": "The SIGURG signal is sent to a process when a socket has urgent or out-of-band data available to read."
 	},
 	"24": {
 		"code": "SIGXCPU",
-		"desc": ""	
+		"desc": "The SIGXCPU signal is sent to a process when it has used up the CPU for a duration that exceeds a certain predetermined user-settable value.[12] The arrival of a SIGXCPU signal provides the receiving process a chance to quickly save any intermediate results and to exit gracefully, before it is terminated by the operating system using the SIGKILL signal."
 	},
 	"25": {
 		"code": "SIGXFSZ",
-		"desc": ""	
+		"desc": "The SIGXFSZ signal is sent to a process when it grows a file that exceeds than the maximum allowed size."
 	},
 	"26": {
 		"code": "SIGVTALRM",
-		"desc": ""	
+		"desc": "The SIGVTALRM signal is sent to a process when the time limit specified in a call to a preceding alarm setting function (such as setitimer) elapses. SIGVTALRM is sent when CPU time used by the process elapses."
 	},
 	"27": {
 		"code": "SIGPROF",
-		"desc": ""	
+		"desc": "The SIGPROF signal is sent to a process when the time limit specified in a call to a preceding alarm setting function (such as setitimer) elapses. SIGPROF is sent when CPU time used by the process and by the system on behalf of the process elapses."
 	},
 	"28": {
 		"code": "SIGWINCH",
-		"desc": ""	
+		"desc": "The SIGWINCH signal is sent to a process when its controlling terminal changes its size (a window change)."
 	},
 	"29": {
 		"code": "SIGIO",
-		"desc": ""	
+		"desc": "The SIGIO signal is sent when an event occurred on an explicitly watched file descriptor. Using it effectively leads to making asynchronous I/O requests since the kernel will poll the descriptor in place of the caller. It provides an alternative to active polling."
 	},
 	"30": {
 		"code": "SIGPWR",
-		"desc": ""	
+		"desc": "The SIGPWR signal is sent to a process when the system experiences a power failure."
 	},
 	"31": {
 		"code": "SIGSYS",
-		"desc": ""	
+		"desc": "The SIGSYS signal is sent to a process when it passes a bad argument to a system call. In practice, this kind of signal is rarely encountered since applications rely on libraries (e.g. libc) to make the call for them. SIGSYS can be received by applications violating the Linux Seccomp security rules configured to restrict them."
 	}
 
 }
