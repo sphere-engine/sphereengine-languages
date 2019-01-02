@@ -55,7 +55,7 @@
 			"codemirror": "perl",
 			"highlightjs": "perl",
 			"prism": "perl",
-			"monaco": "",
+			"monaco": "perl",
 			"code_prettify": "perl"
 		},
 		"ace_default": {
@@ -370,7 +370,7 @@
 			"codemirror": "scheme",
 			"highlightjs": "scheme",
 			"prism": "scheme",
-			"monaco": "",
+			"monaco": "scheme",
 			"code_prettify": "scm"
 		},
 		"ace_default": {
@@ -559,7 +559,7 @@
 			"codemirror": "shell",
 			"highlightjs": "bash",
 			"prism": "bash",
-			"monaco": "",
+			"monaco": "shell",
 			"code_prettify": "bash"
 		},
 		"ace_default": {
@@ -664,7 +664,7 @@
 			"codemirror": "scheme",
 			"highlightjs": "scheme",
 			"prism": "scheme",
-			"monaco": "",
+			"monaco": "scheme",
 			"code_prettify": "scm"
 		},
 		"ace_default": {
@@ -1042,7 +1042,7 @@
 			"codemirror": "perl",
 			"highlightjs": "perl",
 			"prism": "perl",
-			"monaco": "",
+			"monaco": "perl",
 			"code_prettify": "pl"
 		},
 		"ace_default": {
@@ -1252,7 +1252,7 @@
 			"codemirror": "rust",
 			"highlightjs": "rust",
 			"prism": "rust",
-			"monaco": "",
+			"monaco": "rust",
 			"code_prettify": "rust"
 		},
 		"ace_default": {
@@ -1294,7 +1294,7 @@
 			"codemirror": "scheme",
 			"highlightjs": "scheme",
 			"prism": "scheme",
-			"monaco": "",
+			"monaco": "scheme",
 			"code_prettify": "scm"
 		},
 		"ace_default": {
@@ -1336,7 +1336,7 @@
 			"codemirror": "scheme",
 			"highlightjs": "scheme",
 			"prism": "scheme",
-			"monaco": "",
+			"monaco": "scheme",
 			"code_prettify": "scm"
 		},
 		"ace_default": {
@@ -1546,7 +1546,7 @@
 			"codemirror": "clojure",
 			"highlightjs": "clojure",
 			"prism": "clojure",
-			"monaco": "",
+			"monaco": "clojure",
 			"code_prettify": "clj"
 		},
 		"ace_default": {
@@ -1727,7 +1727,7 @@
 		"extension": "fs",
 		"mime": "",
 		"syntax": {
-			"ace": "",
+			"ace": "fsharp",
 			"geshi": "fsharp",
 			"pygments": "fsharp",
 			"highlights": "",
