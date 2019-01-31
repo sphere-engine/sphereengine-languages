@@ -1,4 +1,4 @@
-program ideone;
+program prog;
 var x:byte;
 begin
 	readln(x);
