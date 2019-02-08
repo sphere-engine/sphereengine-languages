@@ -20,7 +20,7 @@
 			"file_source": {
 				"prog.cpp": "multifiles_prog.cpp",
 				"prog2.cpp": "multifiles_prog2.cpp",
-				"prog2.hpp": "multifiles_prog.hpp"
+				"prog2.hpp": "multifiles_prog2.hpp"
 			},
 			"file_input": ""
 		}

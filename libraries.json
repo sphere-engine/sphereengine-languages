@@ -1,0 +1,14 @@
+{
+    "1": ["pthread"],
+    "3": ["json"],
+    "4": ["scipy", "numpy", "gd", "lxml", "pycurl", "simplejson", "Gnuplot", "matplotlib", "numba", "sklearn", "pandas", "tensorflow"],
+    "10": ["junit", "guava"],
+    "11": ["cs50", "pthread"],
+    "21": ["parsec3"],
+    "29": ["xml", "mbstring"],
+    "34": ["pthread"],
+    "44": ["pthread"],
+    "81": ["pthread"],
+    "82": ["pthread"],
+    "116": ["scipy", "numpy", "lxml", "pycurl", "simplejson", "matplotlib", "numba", "pylint", "pandas", "tensorflow"]
+}
