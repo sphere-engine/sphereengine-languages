@@ -1,0 +1,4 @@
+{
+	"description": "Unlambda is a minimal, \"nearly pure\" functional programming language invented by David Madore. It is based on combinatory logic, a version of the lambda calculus that omits the lambda operator. It relies mainly on two built-in functions (s and k) and an apply operator (written `, the backquote character). These alone make it Turing-complete, but there are also some input/output (I/O) functions to enable interacting with the user, some shortcut functions, and a lazy evaluation function. Variables are unsupported.",
+	"url": "https://en.wikipedia.org/wiki/Unlambda"
+}

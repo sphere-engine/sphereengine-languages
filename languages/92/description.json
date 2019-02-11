@@ -1,0 +1,4 @@
+{
+	"description": "Fantom is a general purpose object-oriented programming language created by Brian and Andy Frank that runs on the Java Runtime Environment (JRE), JavaScript, and the .NET Common Language Runtime (CLR) (.NET support is considered \"prototype\" status). Its primary design goal is to provide a standard library API that abstracts away the question of whether the code will ultimately run on the JRE or CLR. Like C# and Java, Fantom uses a curly brace syntax.",
+	"url": "https://en.wikipedia.org/wiki/Fantom_(programming_language)"
+}

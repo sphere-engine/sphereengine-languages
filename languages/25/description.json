@@ -1,0 +1,4 @@
+{
+	"description": "Nice is an object-oriented programming language released under the GNU General Public License. It features a powerful type system which can help eliminate many common bugs, such as null pointer dereferences and invalid casts, by detecting potential runtime errors at compile-time.",
+	"url": "https://en.wikipedia.org/wiki/Nice_(programming_language)"
+}
