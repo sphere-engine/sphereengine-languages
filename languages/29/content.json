@@ -10,13 +10,13 @@
 	"examples": [
 		{
 			"name": "TEST problem",
-			"desc": "",
+			"desc": "Sample solution to the TEST programming problem.",
 			"file_source": "test_problem.php_ex",
 			"file_input": "test_problem.in"
 		},
 		{
 			"name": "Multi-files",
-			"desc": "Simple example how you can use multi files.",
+			"desc": "A simple example how to use the multi-file feature.",
 			"file_source": {
 				"prog.php": "multifiles_prog.php_ex",
 				"prog2.php": "multifiles_prog2.php_ex"

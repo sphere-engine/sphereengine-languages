@@ -10,13 +10,13 @@
 	"examples": [
 		{
 			"name": "TEST problem",
-			"desc": "",
+			"desc": "Sample solution to the TEST programming problem.",
 			"file_source": "test_problem.pl",
 			"file_input": "test_problem.in"
 		},
 		{
 			"name": "Multi-files",
-			"desc": "Simple example how you can use multi files.",
+			"desc": "A simple example how to use the multi-file feature.",
 			"file_source": {
 				"prog.pl": "multifiles_prog.pl",
 				"Prog2.pm6": "multifiles_prog2.pm6"

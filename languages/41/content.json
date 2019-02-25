@@ -10,7 +10,7 @@
 	"examples": [
 		{
 			"name": "TEST problem",
-			"desc": "",
+			"desc": "Sample solution to the TEST programming problem.",
 			"file_source": "test_problem.cpp",
 			"file_input": "test_problem.in"
 		}
