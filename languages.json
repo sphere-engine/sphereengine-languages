@@ -1091,6 +1091,27 @@
 
 		}
 	},
+	"57": {
+		"name": "Typescript",
+		"short": "TS",
+		"extension": "ts",
+		"mime": "",
+		"syntax": {
+			"ace": "typescript",
+			"geshi": "javascript",
+			"pygments": "javascript",
+			"highlights": "javascript",
+			"rouge": "typescript",
+			"codemirror": "javascript",
+			"highlightjs": "typescript",
+			"prism": "typescript",
+			"monaco": "typescript",
+			"code_prettify": "javascript"
+		},
+		"ace_default": {
+
+		}
+	},
 	"81": {
 		"name": "C",
 		"short": "C-CLANG",
