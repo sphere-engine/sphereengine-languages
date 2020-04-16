@@ -1050,8 +1050,8 @@
 		}
 	},
 	"55": {
-		"name": "Java",
-		"short": "JAVA",
+		"name": "Java8",
+		"short": "JAVA8",
 		"extension": "java",
 		"mime": "",
 		"syntax": {

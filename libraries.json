@@ -8,6 +8,7 @@
     "29": ["xml", "mbstring"],
     "34": ["pthread"],
     "44": ["pthread"],
+    "55": ["junit", "guava"],
     "81": ["pthread"],
     "82": ["pthread"],
     "116": ["scipy", "numpy", "lxml", "pycurl", "simplejson", "matplotlib", "numba", "pylint", "pandas", "tensorflow"]
