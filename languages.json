@@ -798,7 +798,7 @@
 		}
 	},
 	"40": {
-		"name": "SQLite",
+		"name": "SQLite - schema",
 		"short": "SQLITE",
 		"extension": "sql",
 		"mime": "",
@@ -1023,6 +1023,27 @@
 			"prism": "aspnet",
 			"monaco": "",
 			"code_prettify": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"52": {
+		"name": "SQLite - queries",
+		"short": "SQLITEQUERIES",
+		"extension": "sql",
+		"mime": "",
+		"syntax": {
+			"ace": "sql",
+			"geshi": "sql",
+			"pygments": "sql",
+			"highlights": "sql",
+			"rouge": "sql",
+			"codemirror": "sql",
+			"highlightjs": "sql",
+			"prism": "sql",
+			"monaco": "sql",
+			"code_prettify": "sql"
 		},
 		"ace_default": {
 
