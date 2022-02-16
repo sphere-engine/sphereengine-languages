@@ -1,4 +1,4 @@
-import std.c.stdio;
+import std.stdio;
 
 int main() {
 
