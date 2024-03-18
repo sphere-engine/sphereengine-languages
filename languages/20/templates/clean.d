@@ -1,7 +1,7 @@
-import std.c.stdio;
+import std.stdio;
 
 int main() {
-// your code goes here
-return 0;
+    // your code goes here
+    return 0;
 }
 

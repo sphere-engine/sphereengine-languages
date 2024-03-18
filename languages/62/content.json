@@ -1,0 +1,10 @@
+{
+	"templates": [
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.txt",
+			"type": ""
+		}
+	]
+}

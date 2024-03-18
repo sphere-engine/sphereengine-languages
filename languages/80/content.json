@@ -1,0 +1,18 @@
+{
+	"templates": [
+		{
+			"name": "Clean template",
+			"desc": "",
+			"file_source": "clean.jl",
+			"type": ""
+		}
+	],
+	"examples": [
+		{
+			"name": "TEST problem",
+			"desc": "Sample solution to the TEST programming problem.",
+			"file_source": "test_problem.jl",
+			"file_input": "test_problem.in"
+		}
+	]
+}
