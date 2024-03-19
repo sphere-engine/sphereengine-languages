@@ -6,5 +6,13 @@
 			"file_source": "clean.txt",
 			"type": ""
 		}
+	],
+	"examples": [
+		{
+			"name": "Simple example",
+			"desc": "",
+			"file_source": "simple_example.txt",
+			"file_input": "simple_example.in"
+		}
 	]
 }

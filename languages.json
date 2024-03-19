@@ -1133,6 +1133,48 @@
 
 		}
 	},
+	"62": {
+		"name": "Text",
+		"short": "TXT",
+		"extension": "txt",
+		"mime": "",
+		"syntax": {
+			"ace": "txt",
+			"geshi": "txt",
+			"pygments": "txt",
+			"highlights": "txt",
+			"rouge": "txt",
+			"codemirror": "txt",
+			"highlightjs": "txt",
+			"prism": "txt",
+			"monaco": "txt",
+			"code_prettify": "txt"
+		},
+		"ace_default": {
+
+		}
+	},
+	"80": {
+		"name": "Julia",
+		"short": "JULIA",
+		"extension": "jl",
+		"mime": "",
+		"syntax": {
+			"ace": "jl",
+			"geshi": "jl",
+			"pygments": "jl",
+			"highlights": "jl",
+			"rouge": "jl",
+			"codemirror": "jl",
+			"highlightjs": "jl",
+			"prism": "jl",
+			"monaco": "jl",
+			"code_prettify": "jl"
+		},
+		"ace_default": {
+
+		}
+	},
 	"81": {
 		"name": "C",
 		"short": "C-CLANG",
@@ -1716,6 +1758,27 @@
 			"prism": "",
 			"monaco": "",
 			"code_prettify": ""
+		},
+		"ace_default": {
+
+		}
+	},
+	"119": {
+		"name": "Python 3 ML/AI",
+		"short": "PY_ML/AI",
+		"extension": "py",
+		"mime": "",
+		"syntax": {
+			"ace": "python",
+			"geshi": "python",
+			"pygments": "python",
+			"highlights": "python",
+			"rouge": "python",
+			"codemirror": "python",
+			"highlightjs": "python",
+			"prism": "python",
+			"monaco": "python",
+			"code_prettify": "python"
 		},
 		"ace_default": {
 
