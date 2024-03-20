@@ -3,5 +3,5 @@ With Ada.Integer_Text_IO; Use Ada.Integer_Text_IO;
 
 procedure Program is
 begin
-  -- your code goes here
+  Put("Hello world");
 end Program;
