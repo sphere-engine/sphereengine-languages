@@ -882,7 +882,7 @@
 		}
 	},
 	"44": {
-		"name": "C++14",
+		"name": "C++ (Modern)",
 		"short": "CPP14",
 		"extension": "cpp",
 		"mime": "",

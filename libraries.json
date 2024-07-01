@@ -1,5 +1,5 @@
 {
-    "1": ["pthread"],
+    "1": ["pthread", "cjson"],
     "3": ["json"],
     "4": ["scipy", "numpy", "gd", "lxml", "pycurl", "simplejson", "Gnuplot", "matplotlib", "numba", "sklearn", "pandas", "tensorflow"],
     "10": ["junit", "guava"],
@@ -11,5 +11,5 @@
     "55": ["junit", "guava"],
     "81": ["pthread"],
     "82": ["pthread"],
-    "116": ["scipy", "numpy", "lxml", "pycurl", "simplejson", "matplotlib", "numba", "pylint", "pandas", "tensorflow"]
+    "116": ["scipy", "numpy", "lxml", "pycurl", "simplejson", "matplotlib", "numba", "pylint", "pandas", "tensorflow", "graphviz"]
 }
